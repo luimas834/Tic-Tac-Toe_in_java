@@ -28,7 +28,7 @@ A simple Tic-Tac-Toe game built in Java as a practice project, following a YouTu
 
 ## 📺 Inspired by
 
-[https://youtu.be/Nc77ymnm8Ss?si=1dl85_Rac10m_f4p](#) <!-- Replace with actual link if available -->
+[Watch the tutorial on YouTube](https://youtu.be/Nc77ymnm8Ss?si=1dl85_Rac10m_f4p)
 
 ---
 
